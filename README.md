@@ -13,19 +13,27 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 2. Solidity
 3. Web 3
 4. Metamask
-5. HTML,CSS,JAVASCRIPT and using Figma also
+5. HTML,CSS,JAVASCRIPT and using Figma 
+6. Tailwind
+7. Http Request Handling
 
 ## Installation
 
 1.Clone the repository
+
 2.Install dependencies using npm install
+
 3.Start the development server using npm start
 
 ## Contributing
 1.Fork the repository
+
 2.Create a new branch
+
 3.Make your changes and commit them (We submit in master branch)
+
 4.Push your changes to the forked repository
+
 5.Create a pull request
 
 ##  Aims For Society
